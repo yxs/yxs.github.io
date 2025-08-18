@@ -5,6 +5,11 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -17,17 +22,22 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+      - uses: actions/configure-pages@v5
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
-      - run: hugo --minify
+      - run: hugo --minify --gc
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      - id: deployment
+        uses: actions/deploy-pages@v4
