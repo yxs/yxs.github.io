@@ -83,18 +83,6 @@ mainSections = ["posts"]
     name = "instagram"
     url = "https://instagram.com/xuesongyey"
 
-  [params.giscus]
-    repo = "yxs/yxs.github.io"
-    repoID = "R_kgDOPfUI7Q"
-    category = "Announcements"
-    categoryID = "DIC_kwDOPfUI7c4CuRFS"
-    mapping = "pathname"
-    reactionsEnabled = "1"
-    emitMetadata = "0"
-    inputPosition = "bottom"
-    theme = "preferred_color_scheme"
-    lang = "en"
-
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
