@@ -1,0 +1,139 @@
+baseURL = "https://yxs.github.io/"
+languageCode = "en-us"
+title = "Journal of Song"
+theme = "PaperMod"
+
+# SEO
+enableRobotsTXT = true
+enableOpenGraph = true
+enableTwitterCards = true
+
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 5
+
+mainSections = ["posts"]
+
+[permalinks]
+  posts = "/:year/:month/:slug/" 
+
+[params]
+  env = "production"
+
+  title = "Journal of Song"
+  description = "The Journey of Song — Thoughts on Work and Life"
+  keywords = ["Blog", "Portfolio", "Software Engineering", "AI", "Machine Learning"]
+  author = "Xuesong Ye"
+  
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  showtoc = true
+  tocopen = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = true
+  hidemeta = false
+  hideSummary = false
+
+
+  [params.label]
+    text = "Home"
+
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Xuesong 👋"
+    Content = """
+  Senior Software Engineer at the ML Infra team in LinkedIn.
+  """
+  
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yxs"
+  [[params.socialIcons]]
+  name = "googlescholar"
+  url  = "https://scholar.google.com/citations?user=wVboVZwAAAAJ"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/xuesongye/"
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/XuesongYe"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/xuesongyey"
+
+  [params.giscus]
+    repo = "yxs/yxs.github.io"
+    repoID = "R_kgDOPfUI7Q"
+    category = "Announcements"
+    categoryID = "DIC_kwDOPfUI7c4CuRFS"
+    mapping = "pathname"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "preferred_color_scheme"
+    lang = "en"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.3
+    minMatchCharLength = 1
+    limit = 10
+    keys = ["title", "permalink", "summary", "content"]
+    useExtendedSearch = true
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 100
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[markup]
+  [markup.highlight]
+    noClasses = false

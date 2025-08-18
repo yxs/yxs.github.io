@@ -1,0 +1,22 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo cache/lock
+.hugo_build.lock
+
+# Hugo themes
+themes/*
+
+# Logs and databases
+*.log
+*.db
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code
+.vscode/
