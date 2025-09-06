@@ -9,99 +9,113 @@ TocOpen = false
 slug = "gym-training-last-3-months"
 +++
 
-My Weekly Workout Plan
 
+# Monday
 
-Scheduled strength workout
-->
-Treadmill 5.5mph+, incline 1.5, 30min
-->
-1 extra Plank or Side Plank
+Smith Squat, 5x10
 
+Smith Bench Press, 5×10
 
-# Monday, Rest + Core
+Plank, 3×60s
 
-Plank, 3x60s
+# Tuesday
+
+HIIT Running, x10
+
+Side Plank, 3x45s
 
 Hanging Leg Raise, 3x12
 
-Hip Thrust, 3x15
+# Wednesday
 
+Incline Dumbbell Press, 5×10
 
-# Tuesday, Chest + Triceps
+Seated Cable Row, 5×10
 
+Dead Bug, 3x10
 
-Smith Machine Bench Press, 4x10
+# Thursday
 
-Incline Dumbbell Bench Press, 3x10
+Romanian Deadlift, 5×10
 
-Dumbbell Bench Press, 3x15
+Hip Thrust, 5×12
 
-Triceps Pulldown, 3x12
+Side Plank, 3x45s
 
+# Friday
 
-# Wednesday, Back + Biceps
+LISS, 40min
 
-- Lat Pulldown, 4x10
+Hanging Leg Raise, 3x12
 
-https://www.bilibili.com/video/BV1dC4y1r7nQ,
-https://www.youtube.com/watch?v=SALxEARiMkw
+Plank, 3×60s
 
-Engage the lats to pull the shoulder blades down and in, keep arms as hooks, torso upright, pull to chin/upper chest, then return slowly.
+# Saturday
 
-- Seated Cable Row, 4x10
+Dumbbell Shoulder Press, 5x10
 
-https://www.bilibili.com/video/BV1y14y1X7by/,
-https://www.youtube.com/watch?v=vwHG9Jfu4sw
+Lat Pulldown, 5x10
 
-lean back about 15 degrees with chest neutral; wide grip hits upper back and rear delts, narrow grip emphasizes lats/lower back; pulling higher targets upper back, pulling lower targets lats.
+Hanging Leg Raise, 3x12
 
-- Single Arm Dumbbell Row, 3x10 per side
+# Sunday
 
-https://www.bilibili.com/video/BV1WV9wYnELR/
+LISS, 40min
 
-Drive with your back, not your arm, row until your upper arm is parallel to your back; keep your torso steady and core tight.
+Dead Bug, 3x10
 
-- Dumbbell Bicep Curl, 3×12
+Hip Thrust, 5×12
 
-https://www.youtube.com/watch?v=yTWO2th-RIY/,
-https://www.bilibili.com/video/BV1Fp4y1d73D/
+# how to do
 
-Stand tall and curl both dumbbells simultaneously. Keep your core tight and stable, with a slight forward lean. At the top, squeeze your biceps hard, pause for 1 second, then lower slowly under control.
+1.Smith Squat 深蹲
 
-# Thursday, Legs + Core
+https://www.bilibili.com/video/BV14x4y147Jw
 
-Smith Machine Squat, 4×10
+2.Smith Bench Press 卧推
 
-Dumbbell Romanian Deadlift, 4x10
+https://www.bilibili.com/video/BV1GE421A7xi
 
-Leg Press, 3x12
+3.Plank 平板支撑
 
-Plank, 3x60s
+https://www.bilibili.com/video/BV14w411V7Yj
 
-# Friday, Shoulders + Triceps
+4.Side Plank
 
-Smith Machine Shoulder Press, 4x10
+https://www.youtube.com/watch?v=N_s9em1xTqU
 
-Dumbbell Lateral Raise, 3x15
+5.Hanging Leg Raise 悬垂举腿
 
-Cable Reverse Fly, 3x15
+https://www.bilibili.com/video/BV1nJ4m1e7bj/
 
-Dumbbell French Press, 3x12
+6.Incline Dumbbell Press 上斜哑铃卧推
 
-# Saturday, Back + Biceps
+https://www.bilibili.com/video/BV1aa4y1o7XA/
 
-Lat Pulldown, 4x10
-Seated Cable Row, 4x10
-Dumbbell Hammer Curl, 3x12
-Face Pull, 3x15
+7.Seated Cable Row 坐姿划船
 
-# Sunday, Legs + Core
+https://www.bilibili.com/video/BV1UG411k7ZM/
 
-Smith Machine Squat, 4×10
+8.Dead Bug
 
-Hip Thrust, 4x10
+https://www.bilibili.com/video/BV1Vw4m1i7oc/
 
-Dumbbell Lunge, 3x10 per leg
+9.Romanian Deadlift
 
-Plank, 3x60s
+https://www.bilibili.com/video/BV1Zt421g7p5/
+
+10.Hip Thrust 髋推
+
+https://www.youtube.com/watch?v=xDmFkJxPzeM
+
+11.Dumbbell Shoulder Press 哑铃肩推
+
+https://www.bilibili.com/video/BV1uw411N7MC/
+
+12.Lat Pulldown 高位下拉
+
+https://www.bilibili.com/video/BV1dC4y1r7nQ
+
+HIIT Running: 7mph/3mph, 1%, x10
+
+LISS: 6mph, 2%, 40min
