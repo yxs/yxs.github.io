@@ -107,6 +107,8 @@ https://www.bilibili.com/video/BV1Zt421g7p5/
 
 https://www.youtube.com/watch?v=xDmFkJxPzeM
 
+https://www.bilibili.com/video/BV1qu4m1T7RC
+
 11.Dumbbell Shoulder Press 哑铃肩推
 
 https://www.bilibili.com/video/BV1uw411N7MC/
