@@ -74,3 +74,7 @@ Day 7 – Recovery
 3. [Foam Roll – Quads](https://www.youtube.com/watch?v=1XzS9y-vJD8), 泡沫轴滚大腿前侧 – 1 minute per leg
 4. Breathing Meditation (4-4-6), 冥想呼吸, 吸气4秒 -> 屏息4秒 -> 呼气6秒 – 4 rounds
 5. LISS - 30 min
+
+Bonus
+
+1. Cable Crunch, [龙门卷腹](https://www.bilibili.com/video/BV1EH4y1J7G2/) - 4 sets | 12–15 reps
