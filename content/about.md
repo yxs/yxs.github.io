@@ -13,7 +13,7 @@ Me
 ---
 
 
-I am Xuesong Ye (叶雪松), also known as **Song Ye**.
+I am Xuesong Ye (叶雪松).
 
 Currently, I work at LinkedIn on ML Infrastructure, embracing the wave of AI.
 My focus is on distributed systems, model training, and inference — work that I find both exciting and meaningful.
