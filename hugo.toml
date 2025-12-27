@@ -40,46 +40,34 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"
-    weight = 20
-
-  [[menu.main]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/yxs"
-    weight = 30
+    weight = 10
 
   [[menu.main]]
     identifier = "scholar"
     name = "Google Scholar"
     url = "https://scholar.google.com/citations?user=wVboVZwAAAAJ"
-    weight = 40
+    weight = 20
 
   [[menu.main]]
     identifier = "x"
     name = "X"
     url = "https://x.com/XuesongYe"
-    weight = 50
+    weight = 30
 
   [[menu.main]]
     identifier = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/xuesongye/"
-    weight = 60
+    weight = 40
 
   [[menu.main]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "https://instagram.com/xuesongyey"
-    weight = 70
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 50
 
 [markup]
   [markup.highlight]
