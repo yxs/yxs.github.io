@@ -15,6 +15,69 @@ slug = "1st-time-having-six-pack"
 
 ## 饮食
 
+### 食堂
+
+早餐
+
+Glaum Egg Ranch Cage-Free Egg White Scramble 蛋白，多份
++
+Soft Tofu and Mixed Vegetable Scramble 豆腐蔬菜鸡蛋，半份
++
+Greek Yogurt + Blueberry
+
+午餐
+
+必须吃一份 Salad：Roasted Halal Chicken（大量）+ Romaine Lettuce/Spring Mix + Persian Cucumber + Cherry Tomato + Pickled Red Onion（少量）+ Edamame 毛豆 + Roasted Broccoli and Sweet Peppers + Carrot
+
+适当拿一些 肉+豆腐+青菜，尽量避免酱汁
+
+<details>
+<summary>展开查看 部分午餐菜单。。。 </summary>
+
+**肉**
+
+Ginger Scallion Sesame Steamed Salmon 姜葱芝麻蒸三文鱼
+Black Cod Al Pastor 墨西哥牧人风味银鳕鱼
+Sambal Udang (Spicy Shrimp) 参巴辣酱虾
+Sichuan Mala Calamari & Shrimp 川味麻辣鱿鱼虾
+Shrimp with Garlic Sauce 蒜蓉虾
+
+Pollo a las Brasas (Peruvian Grilled Chicken) 秘鲁炭烤鸡
+Halal Belizean Achiote Grilled Chicken 伯利兹胭脂树籽烤鸡
+Whole Marys Chicken en Cilantro Mojo 香菜蒜汁烤鸡
+Chicken with Charred Tomato Salsa & Spearmint 炭烤番茄酱薄荷炖鸡
+Hainanese Chicken 海南鸡
+
+Braised Brisket with Daikon 白萝卜炖牛腩
+Beef Stir-fry (Chao niurou) 炒牛肉
+Sesame Beef, Tomato and Egg 芝麻番茄滑蛋牛肉
+Sesame Korean Barbecue Beef Short Ribs 韩式芝麻烧牛小排
+
+Sesame Shanghai Sweet & Sour Pork Ribs 上海风味芝麻糖醋排骨
+Guava & Habanero Glazed Pork Ribs 番石榴哈瓦那辣椒酱烤猪肋排
+Pork Tamale 墨西哥猪肉玉米粽
+
+**豆腐 等等**
+
+Coconut Sesame Soy Mapo Tofu 椰香芝麻风味麻婆豆腐
+Grilled Tofu with Aji Amarillo 秘鲁黄辣椒酱烤豆腐
+Spicy Cumin Bean Curd Noodles 香辣孜然豆腐丝
+Tofu Puff with Eggplant 茄子烧油豆腐
+Sesame Kimchi Tofu Stew 芝麻泡菜豆腐锅
+Scallion Tofu 香葱凉拌豆腐
+
+Sesame Eggplant with Garlic Sauce 蒜蓉芝麻酱茄子
+Sesame Yuba Skin with Oyster Mushroom 芝麻拌腐竹平菇
+Mushroom Stir Fry 清炒杂菇
+
+Sesame Steamed Egg 香油蒸蛋
+
+**青菜**适量，补充 Salad 欠缺的
+
+</details>
+
+### 自己做
+
 {{< img src="food-from-costco.jpg" width="500" >}}
 
 大致的两/三餐模式
@@ -38,7 +101,7 @@ slug = "1st-time-having-six-pack"
 ## 训练
 
 <details>
-<summary>展开查看 过多的训练动作。。。 </summary>
+<summary>展开查看 V1 训练动作。。。 </summary>
 
 Day 1 – Quads + Chest + HIIT
 
@@ -104,7 +167,6 @@ Bonus
 1. Cable Crunch, [龙门卷腹](https://www.bilibili.com/video/BV1EH4y1J7G2/) - 4 sets | 12–15 reps
 
 </details>
-
 
 从 8 月到 11 月的饮食控制和健身，还是带来了一些效果，自己照镜子，腹肌是能看见的，但是线条还不够清晰。开始上班后，上面的健身计划也没有彻底的得到执行。因此简化自己的训练计划。
 
