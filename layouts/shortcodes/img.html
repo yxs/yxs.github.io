@@ -1,0 +1,11 @@
+{{/* Parameter fetching */}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $width := .Get "width" | default "" -}}
+
+<img
+  src="{{ $src }}"
+  alt="{{ $alt }}"
+  loading="lazy"
+  decoding="async"
+  {{- if $width }} width="{{ $width }}"{{ end }}>
