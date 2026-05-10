@@ -1,9 +1,10 @@
 baseURL = "https://yxs.github.io/"
-languageCode = "en-us"
 title = "Xuesong Ye 叶雪松"
 theme = "PaperMod"
 
-# SEO
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
 enableRobotsTXT = true
 
 [minify]
@@ -14,13 +15,20 @@ enableRobotsTXT = true
   home = ["HTML", "RSS", "JSON"]
 
 [permalinks]
-  posts = "/:year/:month/:slug/" 
+  posts = "/:year/:month/:slug/"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
-  mainSections = []
-  
+  mainSections = ["posts"]
+
   author = "Xuesong Ye"
-  
+
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -37,41 +45,88 @@ enableRobotsTXT = true
 
   comments = true
 
-[menu]
+[languages]
 
-  [[menu.main]]
-    identifier = "github"
-    name = "GitHub"
-    url = "https://github.com/yxs"
-    weight = 10
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Xuesong Ye"
 
-  [[menu.main]]
-    identifier = "scholar"
-    name = "Google Scholar"
-    url = "https://scholar.google.com/citations?user=wVboVZwAAAAJ"
-    weight = 20
+    [[languages.en.menu.main]]
+      identifier = "blog"
+      name = "Blog"
+      url = "posts/"
+      weight = 10
 
-  [[menu.main]]
-    identifier = "x"
-    name = "X"
-    url = "https://x.com/XuesongYe"
-    weight = 30
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "search/"
+      weight = 20
 
-  [[menu.main]]
-    identifier = "linkedin"
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/xuesongye/"
-    weight = 40
+    [[languages.en.menu.main]]
+      identifier = "github"
+      name = "GitHub"
+      url = "https://github.com/yxs"
+      weight = 30
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 50
+    [[languages.en.menu.main]]
+      identifier = "scholar"
+      name = "Google Scholar"
+      url = "https://scholar.google.com/citations?user=wVboVZwAAAAJ"
+      weight = 40
 
-[markup]
-  [markup.highlight]
-    noClasses = false
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+    [[languages.en.menu.main]]
+      identifier = "x"
+      name = "X"
+      url = "https://x.com/XuesongYe"
+      weight = 50
+
+    [[languages.en.menu.main]]
+      identifier = "linkedin"
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/xuesongye/"
+      weight = 60
+
+  [languages.zh]
+    languageName = "中文"
+    languageCode = "zh-cn"
+    weight = 2
+    title = "叶雪松"
+
+    [[languages.zh.menu.main]]
+      identifier = "blog"
+      name = "博客"
+      url = "posts/"
+      weight = 10
+
+    [[languages.zh.menu.main]]
+      identifier = "search"
+      name = "搜索"
+      url = "search/"
+      weight = 20
+
+    [[languages.zh.menu.main]]
+      identifier = "github"
+      name = "GitHub"
+      url = "https://github.com/yxs"
+      weight = 30
+
+    [[languages.zh.menu.main]]
+      identifier = "scholar"
+      name = "Google Scholar"
+      url = "https://scholar.google.com/citations?user=wVboVZwAAAAJ"
+      weight = 40
+
+    [[languages.zh.menu.main]]
+      identifier = "x"
+      name = "X"
+      url = "https://x.com/XuesongYe"
+      weight = 50
+
+    [[languages.zh.menu.main]]
+      identifier = "linkedin"
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/xuesongye/"
+      weight = 60
