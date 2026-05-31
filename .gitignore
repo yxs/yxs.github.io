@@ -1,26 +1,12 @@
-# Hugo build output
-/public/
-/resources/
-
-# Hugo cache/lock
-.hugo_build.lock
-
-# Logs and databases
-*.log
-*.db
-
 # OS / Editor files
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
-
-# VS Code
 .vscode/
 
+# Logs
+*.log
 
-# raw images
-*.HEIC
-*.heic
-*.PNG
-*.png
+# GitHub Pages local assemble dir
+_site/

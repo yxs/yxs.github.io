@@ -1,0 +1,91 @@
+/* Hand-written, no framework, no web fonts.
+   Scheme: black text, white background, blue links — nothing else. */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+    Helvetica, Arial, system-ui, sans-serif;
+  font-size: 15.5px;
+  line-height: 1.62;
+  color: #000;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.page {
+  max-width: 888px;
+  margin: 0 auto;
+  padding: 60px 24px 96px;
+}
+
+a {
+  color: #0969da;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+/* ---------- header ---------- */
+.name {
+  margin: 0 0 14px;
+  font-size: 29px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+.name .zh {
+  margin-left: 10px;
+}
+p {
+  margin: 0 0 13px;
+}
+.links {
+  margin-bottom: 7px;
+  font-size: 15px;
+}
+.updated {
+  margin: 0;
+  font-size: 13px;
+  color: #6b7177;
+}
+
+/* ---------- sections ---------- */
+section {
+  margin-top: 36px;
+}
+h2 {
+  margin: 0 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #e7e7e7;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.entry {
+  margin: 13px 0;
+}
+.title,
+a.title {
+  font-weight: 700;
+}
+.meta {
+  font-size: 13px;
+  color: #6b7177;
+}
+
+/* ---------- mobile ---------- */
+@media (max-width: 600px) {
+  .page {
+    padding: 40px 20px 64px;
+  }
+  .name {
+    font-size: 25px;
+  }
+}
