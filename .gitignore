@@ -10,3 +10,6 @@ Thumbs.db
 
 # GitHub Pages local assemble dir
 _site/
+
+.playwright-mcp/
+.claude
