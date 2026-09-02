@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  color: #111;
+  font: 15px/1.45 Arial, Helvetica, sans-serif;
+}
+
+main {
+  width: min(800px, calc(100% - 40px));
+  margin: auto;
+  padding: 42px 0 60px;
+}
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f09228;
+}
+
+header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 200px;
+  gap: 34px;
+  align-items: start;
+}
+
+header img {
+  display: block;
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 0 0 17px;
+  font-size: 30px;
+  line-height: 1.15;
+  font-weight: 600;
+}
+
+h1 span {
+  margin-left: 6px;
+}
+
+.bio {
+  margin: 0;
+}
+
+.contact {
+  margin: 17px 0 0;
+}
+
+.email {
+  color: #666;
+  font: 12px ui-monospace, monospace;
+}
+
+.links {
+  margin: 7px 0 0;
+  line-height: 1.7;
+}
+
+section {
+  margin-top: 24px;
+}
+
+h2 {
+  margin: 0 0 9px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #ddd;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.entry {
+  margin: 9px 0;
+}
+
+@media (max-width: 575px) {
+  main {
+    padding-top: 28px;
+  }
+
+  header {
+    grid-template-columns: minmax(0, 1fr) clamp(116px, 34vw, 132px);
+    column-gap: 18px;
+    row-gap: 0;
+    align-items: center;
+  }
+
+  .intro {
+    display: contents;
+  }
+
+  header img {
+    grid-column: 2;
+    grid-row: 1;
+    width: 100%;
+    margin: 0;
+  }
+
+  h1 {
+    grid-column: 1;
+    grid-row: 1;
+    align-self: center;
+    margin: 0;
+    text-align: left;
+    font-size: 27px;
+  }
+
+  h1 span {
+    display: block;
+    margin: 5px 0 0;
+  }
+
+  .bio {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    margin-top: 24px;
+  }
+
+  .contact {
+    grid-column: 1 / -1;
+    grid-row: 3;
+  }
+
+  .links {
+    grid-column: 1 / -1;
+    grid-row: 4;
+  }
+}
+
+@media (max-width: 340px) {
+  header {
+    grid-template-columns: 1fr;
+  }
+
+  header img {
+    grid-column: 1;
+    grid-row: 1;
+    width: min(152px, 46vw);
+    margin: 0 auto;
+  }
+
+  h1 {
+    grid-column: 1;
+    grid-row: 2;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .bio {
+    grid-row: 3;
+    margin-top: 22px;
+  }
+
+  .contact {
+    grid-row: 4;
+  }
+
+  .links {
+    grid-row: 5;
+  }
+}

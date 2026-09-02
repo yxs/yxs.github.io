@@ -1,0 +1,15 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# Logs
+*.log
+
+# GitHub Pages local assemble dir
+_site/
+
+.playwright-mcp/
+.claude
