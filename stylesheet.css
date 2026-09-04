@@ -37,7 +37,7 @@ h1 {
   margin: 0 0 17px;
   font-size: 30px;
   line-height: 1.15;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h1 span {
@@ -76,6 +76,43 @@ h2 {
 
 .entry {
   margin: 9px 0;
+}
+
+.publication {
+  margin: 13px 0 4px;
+}
+
+.publication-title {
+  font-weight: 600;
+}
+
+.publication-authors,
+.publication-venue,
+.publication-highlights,
+.publication-links {
+  margin-top: 2px;
+}
+
+.publication-venue {
+  color: #555;
+  font-style: italic;
+}
+
+.publication-links {
+  color: #555;
+  font-size: 13px;
+}
+
+.publication-highlights {
+  color: #555;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.social {
+  margin-top: 52px;
+  color: #777;
+  font-size: 13px;
 }
 
 @media (max-width: 575px) {

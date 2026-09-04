@@ -13,3 +13,6 @@ _site/
 
 .playwright-mcp/
 .claude
+
+# the bar
+note.md
